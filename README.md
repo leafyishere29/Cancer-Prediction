@@ -1,4 +1,4 @@
-# Predicting-Type-of-tumor-in-cancer-patients-using-ML
+# Cancer-Prediction-Using-Logistic-Regression
 
 Description:
 

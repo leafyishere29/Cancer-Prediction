@@ -21,3 +21,4 @@ Files and their description:
 6.	plot_cost_per_epochs.m : Consists of the function to plot the progress of the fminunc function and is saved in training_progress_plot.jpg.
 7.	wdbc_data : Consists of the data.
 8.	wdbc_info : Consists of the various information about the data set.
+9.  result_and_analysis.txt : Consists of the final assessment of the model

@@ -1,0 +1,37 @@
+After training the theta parameters are as follow:
+
+  -0.04910991
+  -0.23110984
+  -0.02308297
+  -0.33739991
+   0.01173050
+   0.00520234
+   0.03281907
+   0.04360659
+   0.01966025
+   0.00422914
+   0.00085662
+  -0.00337984
+  -0.07826277
+   0.01079457
+   0.03995577
+   0.00053449
+   0.00740291
+   0.00828532
+   0.00246930
+   0.00136477
+   0.00052681
+  -0.19948530
+   0.13301365
+   0.19488875
+   0.00638175
+   0.00967433
+   0.11131548
+   0.12915237
+   0.03957824
+   0.02303276
+   0.00933794
+
+These parameters can be used to make predictions on the type of tumour, given the 30 features are closely measured.
+
+The predictions made by the model gives an accuracy of 93.49% on the test set consisting of 169 records.
